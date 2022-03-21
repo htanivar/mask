@@ -11,3 +11,4 @@ ng new mask-app
 ng serve --host 0.0.0.0 --allowed-hosts all
 ng generate component components/character-list
 ng generate class common/character
+ng generate service services/character
